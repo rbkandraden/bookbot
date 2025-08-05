@@ -1,2 +1,3 @@
 # bookbot
-boot.dev lesson project to analyze books
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
